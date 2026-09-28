@@ -1,6 +1,5 @@
-package com.mb.orderflow.shared.exception;
+package com.mb.orderflow.infrastructure.exception;
 
-import com.mb.orderflow.infrastructure.exception.ResourceNotFoundException;
 import com.mb.orderflow.product.domain.InsufficientStockException;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;

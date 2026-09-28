@@ -1,4 +1,4 @@
-package com.mb.orderflow.notification.service;
+package com.mb.orderflow.infrastructure.notification.service;
 
 import com.mb.orderflow.payment.domain.PaymentApprovedEvent;
 import org.springframework.stereotype.Component;
