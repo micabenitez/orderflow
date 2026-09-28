@@ -1,6 +1,6 @@
 # OrderFlow API
 
-[![CI Pipeline](https://github.com/TU_USUARIO/orderflow/actions/workflows/ci.yml/badge.svg)](https://github.com/TU_USUARIO/orderflow/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/micabenitez/orderflow/actions/workflows/ci.yml/badge.svg)](https://github.com/TU_USUARIO/orderflow/actions/workflows/ci.yml)
 [![Java 21](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x%2F4.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
